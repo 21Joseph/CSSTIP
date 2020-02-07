@@ -1,0 +1,19 @@
+body {
+	background-color: black;
+	color: white ;
+	font-family: arial;
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/1024px-Emblem-money.svg.png);
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+#box {
+    background-color: black ;  
+    padding:50px ;
+	width: 300px ;
+	border: 12px solid aqua ;
+	margin:40px auto ;
+	border-radius:40px ;
+}
+
